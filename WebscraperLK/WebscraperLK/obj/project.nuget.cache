@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9QhkgCYFen+3h8nvkoCQyBK7dX4Mubx+t3CS7ay/wnsBuJnvYa9SU2ZsyDtfb4qfNy5RBKlKHpEEY1fVaWqGA==",
+  "success": true,
+  "projectFilePath": "F:\\DevOps\\WebscraperLK\\WebscraperLK\\WebscraperLK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
